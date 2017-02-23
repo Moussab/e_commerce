@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/Moussab/e_commerce.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/alaa9985/Easy-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\e_commerce" />
+    <option name="cloneParentDir" value="D:\ThunderSolution\Web-app" />
   </component>
 </application>
